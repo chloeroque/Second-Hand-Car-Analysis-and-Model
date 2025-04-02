@@ -1,2 +1,2 @@
-# Second-Hand-Car-Analysis-and-Model
+# Used Car Market Analysis Project
 This project analyzes used car market data to uncover trends, predict optimal resale prices, and estimate how long a vehicle is likely to stay on the market. Using Python and machine learning tools like Scikit-learn, we built regression models to identify key features that influence pricing, such as mileage, make, model, and year. Our analysis revealed that mileage, age, and brand reputation are strong predictors of resale value, while competitive pricing strategies can significantly reduce time on market. This project provides data-driven insights to help sellers make smarter, more informed decisions.
